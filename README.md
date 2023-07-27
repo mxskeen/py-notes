@@ -1,2 +1,5 @@
 # py-notes
-python notesz
+python notes
+all content is present in notes folder 
+peace
+:)
